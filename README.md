@@ -19,42 +19,79 @@ Answer: A
 
 
 QUESTION NO: 2
+
 Functions of bone include all of the following EXCEPT
+
 A. Support for the body.
+
 B. Protection of organs and tissues.
+
 C. Production of red blood cells.
+
 D. Production of force.
+
 Answer: D
 
 
 
 QUESTION NO: 3
+
 In the organization of skeletal muscle, the muscle cell contains the contractile proteins.
+
 Which of the following is a contractile protein?
+
 A. Myosin.
+
 B. Muscle fascicle.
+
 C. Myofibril.
+
 D. Muscle fiber.
+
 Answer: A
 
 
 
 QUESTION NO: 4
+
 A client in your exercise class has been complaining of back pain with no ridiculer symptoms. This
+
 person has been treated medically and is now joining the exercise program to improve flexibility in
+
 the low back. Which exercise would be most appropriate for this person to address the stated
+
 goal?
-A. Hip flexor stretch. B. Knee-to-chest stretch.
+A. Hip flexor stretch. 
+
+B. Knee-to-chest stretch.
+
 C. Gastrocnemius stretch.
+
 D. Lateral trunk stretch.
+
 Answer: B
 
 
 
 QUESTION NO: 5
+
 All of the following statements are true regarding long bones EXCEPT
+
 A. Thediaphysis is composed of compact bone.
+
 B. The epiphysis consists of spongy bone.
+
 C. Most bones of the axial skeleton are of this type.
+
 D. The central shaft encases themedullary canal.
+
 Answer: C
+
+For Complete Microosft Certification Exam Outline Topics (70-743 PDF File) Click to Download:
+
+https://drive.google.com/file/d/0B9h0DZ9u5iEGcGdXVGtJdXY0X1k/view
+
+Here are some blog resources I used for studying: http://www.microsoftexamguide.com/100-success-rate-mcsa-70-743-pdf/
+
+
+
