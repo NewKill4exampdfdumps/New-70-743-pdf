@@ -6,10 +6,15 @@ industry.
 
 QUESTION NO: 1
 The C-shaped cartilages of the trachea allow all of the following to occur EXCEPT
+
 A. Ciliated movement of mucus-secreting cells.
+
 B. Distention of the esophagus.
+
 C. Maintenance of open airway.
+
 D. Prevention of tracheal collapse during pres- sure changes.
+
 Answer: A
 
 
